@@ -1,0 +1,9 @@
+.candidate-form {
+  width: 40%;
+  height: 70%;
+  align-items: center;
+  margin-left: 30%;
+  margin-top: 2%;
+  border-radius: 10px;
+  display: inline-block;
+}
